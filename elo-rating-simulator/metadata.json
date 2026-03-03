@@ -1,0 +1,5 @@
+{
+  "name": "Elo Rating Simulator",
+  "description": "An interactive visualization of the Elo rating system with live updates and match outcome previews.",
+  "requestFramePermissions": []
+}

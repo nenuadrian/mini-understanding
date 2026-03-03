@@ -1,0 +1,5 @@
+{
+  "name": "KL Divergence Explorer",
+  "description": "An interactive visualization tool to compare Forward and Reverse KL Divergence with Gaussian mixtures.",
+  "requestFramePermissions": []
+}

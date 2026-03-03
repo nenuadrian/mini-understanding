@@ -1,0 +1,5 @@
+{
+  "name": "StatSense: Statistical Intuition Lab",
+  "description": "An interactive dashboard exploring the gap between human intuition and statistical reality through real-time simulations.",
+  "requestFramePermissions": []
+}
