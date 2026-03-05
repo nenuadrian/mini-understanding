@@ -1,0 +1,5 @@
+{
+  "name": "Probabilistic Intuition: MAP vs VI",
+  "description": "An interactive visualization to build intuition for Maximum A Posteriori (MAP) and Variational Inference (VI) by approximating complex posterior distributions.",
+  "requestFramePermissions": []
+}
