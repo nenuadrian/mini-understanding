@@ -1,0 +1,14 @@
+site_name: mini-understanding
+site_description: Interactive mini-labs for statistics, mathematics, and ML.
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Apps: apps.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true

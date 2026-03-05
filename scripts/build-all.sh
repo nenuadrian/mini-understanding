@@ -1,7 +1,7 @@
 #!/bin/sh
 set -eu
 
-ROOT_DIR="$(cd "$(dirname "$0")/projects" && pwd)"
+ROOT_DIR="$(cd "$(dirname "$0")/../projects" && pwd)"
 ROOT_DIST="$ROOT_DIR/../dist"
 
 echo "Preparing root dist folder at: $ROOT_DIST"
