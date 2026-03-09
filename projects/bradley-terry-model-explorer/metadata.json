@@ -1,0 +1,5 @@
+{
+  "name": "Bradley-Terry Model Explorer",
+  "description": "An interactive deep-dive into the Bradley-Terry model for pairwise comparisons and ranking.",
+  "requestFramePermissions": []
+}
