@@ -28,6 +28,8 @@ while IFS= read -r project_path; do
   echo "=== Building $project_name ==="
   (
     cd "$project_path"
+    cp $ROOT_DIR/../vite.config.ts .
+    rm .env.example
     npm install
     npm run build
   )
